@@ -10,8 +10,4 @@ public class SearchResultsPage {
     public void goToImages() {
         spanImages.click();
     }
-
-    public void openImage(int index) {
-//        r5xl4
-    }
 }
